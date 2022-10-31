@@ -1,0 +1,12 @@
+.legbuilder_form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.legbuilder_form label {
+  display: block;
+  font-weight: 500;
+  margin: 10px 20px;
+  text-align: start;
+}/*# sourceMappingURL=Options.css.map */
