@@ -1,0 +1,27 @@
+.container {
+  background: #ced4da;
+  padding: 30px;
+  text-align: center;
+  border-radius: 15px;
+  margin: 20px;
+}
+.container .feature-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+.container input {
+  width: 100px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.container select {
+  margin: 10px 20px;
+  width: 80px;
+  padding: 5px;
+  border-radius: 15px;
+  border: none;
+  background: #375a9e;
+  color: #fff;
+}/*# sourceMappingURL=List.css.map */

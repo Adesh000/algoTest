@@ -8,6 +8,36 @@
         display: block;
         font-weight: 500;
         margin: 10px 20px;
-        text-align: start;
+    }
+    #lot-number, select{
+        margin: 10px 20px;
+        width: 80px;
+        padding: 5px;
+        border-radius: 15px;
+        border: none;
+
+    }
+    #strike-criteria{
+        width: 150px;
+    }
+    
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    button{
+        margin: 10px;
+        padding: 10px 30px;
+        background: #fff;
+        border: none;
+        border-radius: 20px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+        font-weight: 500;
+    }
+    #add{
+        background: #375a9e;
+        color: #fff;
     }
 }

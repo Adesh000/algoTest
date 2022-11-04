@@ -8,7 +8,7 @@ const ToggleBar = () => {
             <div className="toggle-container">
                 <input className="radio_input" type="radio" name="toggle_option" id="toggle-option-one" />
                 <label className="radio_label" htmlFor="toggle-option-one">Features</label>
-                <input className="radio_input" type="radio" name="toggle_option" id="toggle-option-two" />
+                <input className="radio_input" type="radio" name="toggle_option" id="toggle-option-two" checked/>
                 <label className="radio_label" htmlFor="toggle-option-two">Options</label>
             </div>
         </div>

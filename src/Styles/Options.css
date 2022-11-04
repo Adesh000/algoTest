@@ -8,5 +8,33 @@
   display: block;
   font-weight: 500;
   margin: 10px 20px;
-  text-align: start;
+}
+.legbuilder_form #lot-number, .legbuilder_form select {
+  margin: 10px 20px;
+  width: 80px;
+  padding: 5px;
+  border-radius: 15px;
+  border: none;
+}
+.legbuilder_form #strike-criteria {
+  width: 150px;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main button {
+  margin: 10px;
+  padding: 10px 30px;
+  background: #fff;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  font-weight: 500;
+}
+.main #add {
+  background: #375a9e;
+  color: #fff;
 }/*# sourceMappingURL=Options.css.map */
